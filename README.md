@@ -12,3 +12,14 @@
 
 </p>
 </details>
+
+<details>
+<summary>
+  android studio
+</summary>
+<p>
+
+**Wrong sha1 hash.**
+
+</p>
+</details>
